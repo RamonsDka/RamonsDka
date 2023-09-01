@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamonsDka
 - 👀 I’m interested in ... to learn
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python and SQL server
 - 💞️ I’m looking to collaborate on ... whatever is within my reach
 - 📫 How to reach me ... here
 
